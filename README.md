@@ -1,4 +1,4 @@
-![MasterHead](./github-header-image.png)
+![MasterHead](./portfolio_banner.png)
 
 <h1 align="center">Hi 👋, I'm Atul</h1>
 <h3 align="center">Computer Engineering Undergraduate at IOE Thapathali Campus, Kathmandu, Nepal</h3>
