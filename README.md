@@ -10,11 +10,11 @@
 
 - 🌱 I’m currently learning **AI, ML**
 
-- 💬 Ask me about **Python, C, C++, Qt basics**
+- 💬 Ask me about: **Python, C, C++, Qt basics**
 
-- 📫 How to reach me **atul.shrwstv123@gmail.com**
+- 📫 Reach me at: **atul.shrwstv123@gmail.com**
 
-- ⚡ Fun fact **I also love gaming**
+- ⚡ Fun fact: **I also love gaming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
