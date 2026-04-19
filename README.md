@@ -1,7 +1,7 @@
 ![Portfolio Banner](./portfolio_banner.png)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/render?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=750&lines=AI+%2F+ML+Engineer;Multi-Agentic+Systems+Expert;Building+Intelligent%2C+Reasoning+Agents;Turning+Data+Into+Intelligence" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=750&lines=AI+%2F+ML+Engineer;Multi-Agentic+Systems+Expert;Building+Intelligent%2C+Reasoning+Agents;Turning+Data+Into+Intelligence" alt="Typing SVG" />
 </div>
 
 <br/>
