@@ -1,32 +1,100 @@
-![MasterHead](./portfolio_banner.png)
+![Portfolio Banner](./portfolio_banner.png)
 
-<h1 align="center">Hi 👋, I'm Atul</h1>
-<h3 align="center">Computer Engineering Undergraduate at IOE Thapathali Campus, Kathmandu, Nepal</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*VMmvImch6VU5pc2VktY1uw.gif">
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/render?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=750&lines=AI+%2F+ML+Engineer;Multi-Agentic+Systems+Expert;Building+Intelligent%2C+Reasoning+Agents;Turning+Data+Into+Intelligence" alt="Typing SVG" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atulxce&label=Profile%20views&color=0e75b6&style=flat" alt="atulxce" /> </p>
+<br/>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<div align="center">
+  <a href="https://atulshreewastav.com.np" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-atulshreewastav.com.np-7C3AED?style=for-the-badge&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/atulxce" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-atulxce-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/atulxop" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-@atulxop-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=atulxce&label=Profile+Views&color=7C3AED&style=for-the-badge" />
+</div>
 
-- 🌱 I’m currently learning **AI, ML**
+---
 
-- 💬 Ask me about: **Python, C, C++, Qt basics**
+## `whoami`
 
-- 📫 Reach me at: **atul.shrwstv123@gmail.com**
+```python
+class AtulShreewastav:
+    role       = "AI/ML Engineer  |  Multi-Agentic Systems Expert"
+    education  = "Computer Engineering — IOE Thapathali Campus, Kathmandu 🇳🇵"
+    focus      = ["Multi-Agent Systems", "Machine Learning", "AI Engineering"]
+    building   = "Intelligent agents that think, plan & act autonomously"
+    ask_me     = ["Python", "AI / ML", "Multi-Agent Architectures", "C / C++"]
+    contact    = "atul.shrwstv123@gmail.com"
+    fun_fact   = "I turn coffee ☕ into AI — and also love gaming 🎮"
+```
 
-- ⚡ Fun fact: **I also love gaming**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/atulxop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atulxop" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/atulxce" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atulxce" height="30" width="40" /></a>
-<a href="https://instagram.com/atulxop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="atulxop" height="30" width="40" /></a>
-</p>
+## Tech Arsenal
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+**AI / Machine Learning**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atulxce&show_icons=true&locale=en" alt="atulxce" /></p>
+**Languages**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atulxce&" alt="atulxce" /></p>
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Tools & Platforms**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+
+---
+
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=atulxce&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=C9D1D9" height="165" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulxce&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=C9D1D9" height="165" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atulxce&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" />
+</div>
+
+---
+
+## Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atulxce&bg_color=0D1117&color=7C3AED&line=7C3AED&point=C9D1D9&hide_border=true" />
+</div>
+
+---
+
+<div align="center">
+  <i>Building the future, one agent at a time.</i>
+  <br/><br/>
+  <a href="mailto:atul.shrwstv123@gmail.com">
+    <img src="https://img.shields.io/badge/Email-atul.shrwstv123@gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/atulxop" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@atulxop-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</div>
