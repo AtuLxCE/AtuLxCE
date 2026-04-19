@@ -1,14 +1,16 @@
-![Portfolio Banner](./portfolio_banner.png)
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=200&section=header&text=Atul%20Shreewastav&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%7C%20Multi-Agentic%20Systems%20Expert&descAlignY=58&descSize=20" />
+</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=750&lines=AI+%2F+ML+Engineer;Multi-Agentic+Systems+Expert;Building+Intelligent%2C+Reasoning+Agents;Turning+Data+Into+Intelligence" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Building+Intelligent%2C+Reasoning+Agents+%F0%9F%A4%96;Designing+Multi-Agent+Architectures+%F0%9F%A7%A0;Turning+Data+Into+Intelligence+%F0%9F%93%8A;Open+to+Collaborate+%26+Build+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <div align="center">
   <a href="https://atulshreewastav.com.np" target="_blank">
-    <img src="https://img.shields.io/badge/🌐 Portfolio-atulshreewastav.com.np-7C3AED?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-atulshreewastav.com.np-7C3AED?style=for-the-badge&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/atulxce" target="_blank">
@@ -16,11 +18,13 @@
   </a>
   &nbsp;
   <a href="https://twitter.com/atulxop" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-@atulxop-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-@atulxop-1D9BF0?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=atulxce&label=Profile+Views&color=7C3AED&style=for-the-badge" />
 </div>
+
+<br/>
 
 ---
 
@@ -33,6 +37,7 @@ class AtulShreewastav:
     focus      = ["Multi-Agent Systems", "Machine Learning", "AI Engineering"]
     building   = "Intelligent agents that think, plan & act autonomously"
     ask_me     = ["Python", "AI / ML", "Multi-Agent Architectures", "C / C++"]
+    portfolio  = "https://atulshreewastav.com.np"
     contact    = "atul.shrwstv123@gmail.com"
     fun_fact   = "I turn coffee ☕ into AI — and also love gaming 🎮"
 ```
@@ -51,9 +56,9 @@ class AtulShreewastav:
 
 **Languages**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Tools & Platforms**
 
@@ -68,13 +73,13 @@ class AtulShreewastav:
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atulxce&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=C9D1D9" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=atulxce&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=C9D1D9&rank_icon=github" height="165" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulxce&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=C9D1D9" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulxce&layout=compact&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=C9D1D9" height="165" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atulxce&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" />
+  <img src="https://streak-stats.demolab.com?user=atulxce&hide_border=true&background=0D1117&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED&sideLabels=C9D1D9&dates=C9D1D9&sideNums=ffffff&currStreakNum=ffffff" />
 </div>
 
 ---
@@ -82,19 +87,11 @@ class AtulShreewastav:
 ## Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atulxce&bg_color=0D1117&color=7C3AED&line=7C3AED&point=C9D1D9&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atulxce&bg_color=0D1117&color=7C3AED&line=7C3AED&point=ffffff&hide_border=true&area=true&area_color=7C3AED" />
 </div>
 
 ---
 
 <div align="center">
-  <i>Building the future, one agent at a time.</i>
-  <br/><br/>
-  <a href="mailto:atul.shrwstv123@gmail.com">
-    <img src="https://img.shields.io/badge/Email-atul.shrwstv123@gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/atulxop" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@atulxop-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=100&section=footer" />
 </div>
